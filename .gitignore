@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# Large files (GitHub limit is 100MB per file)
+*.csv
+!data/ipl_cleaned.csv
+!data/ipl_final.csv
+!data/ipl_team_sentiment.csv
+!data/ipl_season_sentiment.csv
+!data/ipl_pom_excitement.csv
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
