@@ -52,3 +52,51 @@ that do not exist in any other IPL analysis on Kaggle.
 ---
 
 ## Project Structure
+ipl-cricket-autopsy/
+├── data/               → Cleaned CSV files
+├── notebooks/          → 3 Jupyter notebooks (cleaning, EDA, NLP)
+├── sql/                → MySQL query file (10 sections)
+├── powerbi_csvs/       → Aggregated CSVs for Power BI
+├── dashboard/          → Power BI .pbix file
+├── charts/             → All 12 EDA chart PNGs
+└── README.md
+
+---
+
+## How to Run
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/YOUR_USERNAME/ipl-cricket-autopsy
+cd ipl-cricket-autopsy
+
+# 2. Install dependencies
+pip install pandas numpy matplotlib seaborn vaderSentiment
+
+# 3. Run notebooks in order
+# Open Jupyter → run 01 → 02 → 03
+
+# 4. Import CSVs into MySQL Workbench
+# Run sql/ipl_analysis.sql
+
+# 5. Import CSVs into Power BI
+# Open dashboard/IPL_Cricket_Autopsy.pbix
+```
+
+---
+
+## Dataset
+
+- **Source:** Kaggle — IPL Complete Dataset (2008–2024)
+- **Matches:** 1,090 | **Deliveries:** 2,60,920 ball-by-ball records
+- **Period:** 2008–2024 (17 seasons)
+- **Join key:** match_id (matches ↔ deliveries)
+
+---
+
+## Dashboard
+
+🔗 **[View Live Power BI Dashboard](YOUR_POWERBI_LINK_HERE)**
+
+
+**Sangharsh Nikam** | nikam.sangharsh.anil@gmail.com | [LinkedIn]((https://www.linkedin.com/in/sangharsh-nikam-b655212b8/))
