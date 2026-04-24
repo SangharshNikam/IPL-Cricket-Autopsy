@@ -67,7 +67,7 @@ ipl-cricket-autopsy/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ipl-cricket-autopsy
+git clone https://github.com/SangharshNikam/IPL-Cricket-Autopsy
 cd ipl-cricket-autopsy
 
 # 2. Install dependencies
