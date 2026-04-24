@@ -53,13 +53,37 @@ that do not exist in any other IPL analysis on Kaggle.
 
 ## Project Structure
 ipl-cricket-autopsy/
-├── data/               → Cleaned CSV files
-├── notebooks/          → 3 Jupyter notebooks (cleaning, EDA, NLP)
-├── sql/                → MySQL query file (10 sections)
-├── powerbi_csvs/       → Aggregated CSVs for Power BI
-├── dashboard/          → Power BI .pbix file
-├── charts/             → All 12 EDA chart PNGs
-└── README.md  
+ipl-cricket-autopsy/
+│
+├── 📂 data/
+│   ├── ipl_cleaned.csv
+│   ├── ipl_deliveries_cleaned.csv
+│   ├── ipl_final.csv
+│   ├── ipl_team_sentiment.csv
+│   ├── ipl_season_sentiment.csv
+│   └── ipl_pom_excitement.csv
+│
+├── 📂 notebooks/
+│   ├── 01_Data_Cleaning.ipynb          
+│   ├── 02_EDA_Visualization.ipynb      
+│   └── 03_NLP_Sentiment.ipynb          
+│
+├── 📂 sql/
+│   └── ipl_analysis.sql                
+│
+├── 📂 powerbi_csvs/                    
+│   ├── ipl_top_batsmen.csv
+│   ├── ipl_top_bowlers.csv
+│   ├── ipl_death_batsmen.csv
+│   ├── ipl_pp_bowlers.csv
+│   ├── ipl_dismissals.csv
+│   └── ipl_phase_runs.csv
+│
+├── 📂 dashboard/
+│   └── IPL_Cricket_Autopsy.pbix        
+│
+├── 📂 charts/
+│   └── (all PNG charts from EDA Visuals folder)                         
 
 ---
 
