@@ -120,9 +120,8 @@ pip install pandas numpy matplotlib seaborn vaderSentiment
 
 ## Dashboard
 
-🔗 **[View Live Power BI Dashboard](https://app.powerbi.com/links/I_6yTLSLcD?ctid=405ddc34-d660-46e5-b52d-bfd0be156bb5&pbi_source=linkShare)**
+🔗 **[View Live Power BI Dashboard](dashboard/IPL_Cricket_Autopsy.pbix)**
 
-<img src="dashboard/IPL_Cricket_Autopsy.pbix" width="900"/>
 
 
 **Sangharsh Nikam** | nikam.sangharsh.anil@gmail.com | [LinkedIn](https://www.linkedin.com/in/sangharsh-nikam-b655212b8/)
