@@ -121,7 +121,7 @@ pip install pandas numpy matplotlib seaborn vaderSentiment
 ## Dashboard
 
 <img width="1293" height="732" alt="image" src="https://github.com/user-attachments/assets/94eef789-8236-4c72-b337-7b66f9935751" />
-<img width="1294" height="727" alt="image" src="https://github.com/user-attachments/assets/512671e8-fb07-49b4-973c-99eee38d9d69" />
+<img width="1296" height="735" alt="image" src="https://github.com/user-attachments/assets/22c608a4-1478-4e3d-b77e-7f066b582863" />
 <img width="1302" height="734" alt="image" src="https://github.com/user-attachments/assets/0a8abb14-e1b9-4ab3-8154-8cf0460f3956" />
 <img width="1298" height="729" alt="image" src="https://github.com/user-attachments/assets/3627039f-ce5f-46d5-9961-ffb7052ab9fe" />
 
