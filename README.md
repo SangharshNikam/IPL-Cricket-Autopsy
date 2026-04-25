@@ -50,8 +50,8 @@ that do not exist in any other IPL analysis on Kaggle.
 | Git | Version control |
 
 ---
-"'
 ## Project Structure
+"'
 ipl-cricket-autopsy/
 ipl-cricket-autopsy/
 │
@@ -85,7 +85,6 @@ ipl-cricket-autopsy/
 ├── 📂 charts/
 │   └── (all PNG charts from EDA Visuals folder)                         
 "'
----
 
 ## How to Run
 
