@@ -51,6 +51,7 @@ that do not exist in any other IPL analysis on Kaggle.
 
 ---
 ## Project Structure
+'''
 ipl-cricket-autopsy/
 │
 ├── 📂 data/
@@ -82,7 +83,7 @@ ipl-cricket-autopsy/
 │
 ├── 📂 charts/
 │   └── (all PNG charts from EDA Visuals folder)                         
-
+'''
 ## How to Run
 
 ```bash
