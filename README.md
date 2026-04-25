@@ -50,7 +50,7 @@ that do not exist in any other IPL analysis on Kaggle.
 | Git | Version control |
 
 ---
-## Project Structure
+
 ## Project Structure
 
 ```
